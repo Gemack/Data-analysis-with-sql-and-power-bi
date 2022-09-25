@@ -2,4 +2,3 @@
 
  
 
-"# Data-analysis-with-sql-and-power-bi" 
